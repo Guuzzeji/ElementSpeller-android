@@ -1,0 +1,29 @@
+{
+  "expo": {
+    "name": "Element Speller",
+    "slug": "ES",
+    "privacy": "public",
+    "sdkVersion": "35.0.0",
+    "platforms": [
+      "android"
+    ],
+    "version": "1.0.1",
+    "orientation": "portrait",
+    "icon": "./assets/icon_test.png",
+    "splash": {
+      "image": "./assets/splash_test.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#6E00FF"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*",
+      "./Json/rule.json"
+    ],
+    "android": {
+      "package": "com.Asian_Nerd_Software.Element_Speller_v101"
+    }
+  }
+}

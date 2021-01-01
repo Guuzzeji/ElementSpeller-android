@@ -1,0 +1,109 @@
+{
+    
+    "One_letter": [
+        {
+            "Letter": "h",
+            "Element": "Hydrogen"
+        },
+        {
+            "Letter": "l",
+            "Element": "Lutetium"
+        },
+        {
+            "Letter": "w",
+            "Element": "Tungsten"
+        },
+        {
+            "Letter": "o",
+            "Element": "Oxygen"
+        },
+        {
+            "Letter": "d",
+            "Element": "Dubnium"
+        },
+        {
+            "Letter": "r",
+            "Element": "Rutherfordium"
+        },
+        {
+            "Letter": "b",
+            "Element": "Boron"
+        },
+        {
+            "Letter": "c",
+            "Element": "carbon"
+        },
+        {
+            "Letter": "n",
+            "Element": "Nitrogen"
+        },
+        {
+            "Letter": "f",
+            "Element": "Fluorine"
+        },
+        {
+            "Letter": "p",
+            "Element": "Phosphours"
+        },
+        {
+            "Letter": "s",
+            "Element": "Sulfur"
+        },
+        {
+            "Letter": "i",
+            "Element": "Iodine"
+        },
+        {
+            "Letter": "k",
+            "Element": "Potassium"
+        },
+        {
+            "Letter": "v",
+            "Element": "Vanadium"
+        },
+        {
+            "Letter": "y",
+            "Element": "Yttrium"
+        },
+        {
+            "Letter": "u",
+            "Element": "Uranium"
+        },
+        {
+            "Letter": "a",
+            "Element": "Gold"
+        },
+        {
+            "Letter": "q",
+            "Element": "Q"
+        },
+        {
+            "Letter": "j",
+            "Element": "J"
+        },
+        {
+            "Letter": "x",
+            "Element": "Xenon"
+        },
+        {
+            "Letter": "z",
+            "Element": "Zirconium"
+        },
+        {
+            "Letter": "m",
+            "Element": "Magnesium"
+        },
+        {
+            "Letter": "g",
+            "Element": "Germanium"
+        },
+        {
+            "Letter": "t",
+            "Element": "Technetium"
+        },
+        {
+            "Letter": "e",
+            "Element": "Einsteinium"
+        }
+    ]
+}
